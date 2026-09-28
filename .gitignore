@@ -1,0 +1,9 @@
+/data/
+*.db-wal
+*.db-shm
+web/node_modules/
+web/dist/
+web/.vite/
+.DS_Store
+tmp/
+bin/
